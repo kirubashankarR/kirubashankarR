@@ -79,7 +79,7 @@ Artificial Intelligence & Machine Learning
 
 ## 📊 GitHub Stats
 
-![Kiruba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiruba-shankar-r&show_icons=true&theme=radical)  
+![Kiruba's GitHub Stats]("C:\Users\leela\Downloads\api (1).svg")  
 ![Top Languages]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kirubashankarR&bg_color=050505&color=746ddf&line=2a229b&point=862d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 
 ---
