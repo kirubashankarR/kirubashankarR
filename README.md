@@ -14,7 +14,7 @@
 
 ## 🚀 Skills & Tools
 
-<img src="https://skillicons.dev/icons?i=python,html,css,jupyter,github,git,vscode,firebase,django,androidstudio,mysql" />
+<img src="https://skillicons.dev/icons?i=python,html,css,github,git,vscode,firebase,django,androidstudio,mysql" />
 
 ---
 
