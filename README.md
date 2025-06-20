@@ -79,7 +79,7 @@ Artificial Intelligence & Machine Learning
 
 ## 📊 GitHub Stats
 
-![Kiruba's GitHub Stats](![kirubashankarR's Stats](https://github-readme-stats.vercel.app/api?username=kirubashankarR&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)(https://github-readme-stats.vercel.app/api/top-langs/?username=kirubashankarR&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)))  
+![Kiruba's GitHub Stats](![kirubashankarR's Stats](https://github-readme-stats.vercel.app/api?username=kirubashankarR&theme=vue-dark&show_icons=true&hide_border=true&count_private=truehttps://github-readme-stats.vercel.app/api/top-langs/?username=kirubashankarR&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)))  
 ![Top Languages]([![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kirubashankarR&bg_color=050505&color=746ddf&line=2a229b&point=862d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph))
 
 ---
