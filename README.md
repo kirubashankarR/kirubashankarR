@@ -84,8 +84,3 @@ Artificial Intelligence & Machine Learning
 
 ---
 
-## 🎥 Just for Fun
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-
-> “Technology is best when it brings people together. Let’s build for impact.”
